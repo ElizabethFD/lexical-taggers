@@ -1,3 +1,6 @@
+lexical taggers are for Sahidic Coptic
+===========================================================
+
 Includes lemmatizer and tagger for language of origin.
 
 Copyright 2013-14 Amir Zeldes, Caroline T. Schroeder.  The perl program is free software. You may copy or redistribute the script under the same terms as Perl itself.
