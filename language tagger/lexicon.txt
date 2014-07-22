@@ -103,6 +103,7 @@
 ⲡⲁⲣⲑⲉⲛⲟⲥ	Greek
 ⲡⲁⲣⲣⲏⲥⲓⲁ	Greek
 ⲡⲏⲅⲏ	Greek
+ⲡⲓⲗⲁⲧⲟⲥ	Latin
 ⲡⲓⲥⲧⲉⲩⲉ	Greek
 ⲡⲓⲥⲧⲟⲥ	Greek
 ⲡⲗⲏⲅⲏ	Greek
