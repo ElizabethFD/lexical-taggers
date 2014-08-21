@@ -1,4 +1,4 @@
-lexical taggers are for Sahidic Coptic
+lexical taggers for Sahidic Coptic
 ===========================================================
 
 Includes lemmatizer and tagger for language of origin.
