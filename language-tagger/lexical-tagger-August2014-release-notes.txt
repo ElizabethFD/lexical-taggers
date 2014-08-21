@@ -1,7 +1,7 @@
-v. 1.21:
+v. 1.22:
 Words containing the mnt/ref/at/r morphs that were in the v. 1.1 release were re-added, for use by other projects that might not annotate on the morph level. 
 
-v. 1.22
+v. 1.21
 Words containing the mnt/ref/at/r morphs are removed since we are now tagging for language of origin on the morpheme level
 
 Vocabulary from Mark 12-16 and 1 Cor 1-5 added.
