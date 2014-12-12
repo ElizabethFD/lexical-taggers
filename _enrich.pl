@@ -7,10 +7,12 @@ use Encode;
 my $usage;
 {
 $usage = <<"_USAGE_";
+_enrich.pl version 1.0
+
 This script enriches lines based on the first tab-delimited column of that line with values from a lexicon file in a new column of the output file.
+Optional arguments are currently only outputting the help message.
 
-
-Usage:  t_enrich.pl [optional args] -l <LEXICON> <IN_FILE>
+Usage:  _enrich.pl [optional args] -l <LEXICON> <IN_FILE>
 
 Options and arguments:
 
@@ -38,11 +40,9 @@ if ($opts{h} || (@ARGV == 0)) {
 }
 if (!($lexicon = $opts{l})) 
     {$lexicon = "lexicon.txt";}
-#if ($opts{n})   {$noword = 1;} else {$noword = 0;}
 
 ### OPTIONS END ###
 
-	#$corp_file = "YA421-428_CTS_norm_tagged.txt";
 
 	open(FLH,"$lexicon");
 	@array = <FLH>;
@@ -59,16 +59,12 @@ if (!($lexicon = $opts{l}))
                 {
 					$entry = decode_utf8($1);
 					$trans = $2;
-					#print "AAAAA" . $trans . "CCCC" . "\n";
 					$lex{decode_utf8($entry)} .= $trans;
-					
+					$trans =~ s/^[ \t]+//g;
+					$trans =~ s/[ \t]+$//g;
 				}
 					
 		}
-#while ( ($key, $value) = each %lex )
-#{
-#	$lex{$key} = substr($lex{$key},0,length($lex{$key})-2);
-#}
 
 		
 while($ar = <>)	
