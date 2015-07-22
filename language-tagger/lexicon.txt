@@ -10,6 +10,8 @@
 
 *ⲥⲓⲥ	Greek
 
+*ⲟⲩⲥⲓⲁ	Greek
+
 ⲁⲃⲓⲁⲑⲁⲣ	Hebrew
 
 ⲁⲃⲣⲁϩⲁⲙ	Hebrew
@@ -27,6 +29,8 @@
 ⲁⲅⲉⲗⲏ	Greek
 
 ⲁⲅⲟⲣⲁ	Greek
+
+ⲁⲇⲓⲕⲟⲥ	Greek
 
 ⲁⲏⲣ	Greek
 
@@ -322,6 +326,10 @@
 
 ⲕⲟⲙⲉⲥ	Latin
 
+ⲕⲱⲙⲏ	Greek
+
+ⲕⲟⲣⲃⲁⲛ	Hebrew
+
 ⲕⲟⲣⲓⲛⲑⲟⲥ	Greek
 
 ⲕⲟⲥⲙⲟⲥ	Greek
@@ -418,6 +426,8 @@
 
 ⲛⲇⲉ	Greek
 
+ⲛⲏⲥⲧⲓⲁ	Greek
+
 ⲛⲏⲥⲧⲉⲩⲉ	Greek
 
 ⲛⲟⲉⲓ	Greek
@@ -425,6 +435,8 @@
 ⲛⲟⲙⲟⲥ	Greek
 
 ⲛⲩⲕⲧⲉⲣⲓⲥ	Greek
+
+ⲝⲉⲥⲧⲏⲥ	Greek
 
 ⲟⲓⲕⲟⲛⲟⲙⲓⲁ	Greek
 
@@ -518,11 +530,19 @@
 
 ⲡⲟⲛⲏⲣⲟⲥ	Greek
 
+ⲡⲟⲣⲛⲉⲓⲁ	Greek
+
 ⲡⲟⲣⲛⲉⲩⲉ	Greek
+
+ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	Greek
 
 ⲡⲣⲟⲑⲉⲥⲓⲥ	Greek
 
+ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲉⲓ	Greek
+
 ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲓⲁ	Greek
+
+ⲡⲣⲟⲫⲏⲧⲉⲩⲉ	Greek
 
 ⲡⲣⲟⲫⲏⲧⲏⲥ	Greek
 
@@ -574,6 +594,8 @@
 
 ⲥⲩⲛⲍⲏⲧⲏⲧⲏⲥ	Greek
 
+ⲥⲩⲣⲓⲁ	Greek
+
 ⲥⲫⲣⲁⲅⲓⲥ	Greek
 
 ⲥⲭⲏⲙⲁ	Greek
@@ -610,9 +632,13 @@
 
 ⲫⲓⲗⲓⲡⲡⲟⲥ	Greek
 
+ⲫⲟⲓⲛⲓⲕⲏ	Greek
+
 ⲫⲟⲣⲉⲓ	Greek
 
 ⲭⲁⲗⲁ	Greek
+
+ⲭⲁⲗⲕⲓⲛ	Greek
 
 ⲭⲁⲣⲓⲍⲉ	Greek
 
@@ -682,9 +708,13 @@
 
 ϩⲩⲡⲟⲕⲣⲓⲥⲓⲥ	Greek
 
+ϩⲩⲡⲟⲕⲣⲓⲧⲏⲥ	Greek
+
 ϩⲩⲡⲟⲧⲁⲅⲏ	Greek
 
 ϩⲩⲡⲟⲧⲁⲥⲥⲉ	Greek
+
+ϩⲱⲥ	Greek
 
 ϩⲱⲥⲧⲉ	Greek
 
